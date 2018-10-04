@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 baseurl: "/jcmblog"
 url: "https://jcmundy.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: This blog works # site's title
+description: "A jekyll theme blog with posts and pages" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
